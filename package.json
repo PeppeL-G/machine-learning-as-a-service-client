@@ -1,0 +1,27 @@
+{
+  "name": "machine-learning-as-a-service-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch src src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeppeL-G/machine-learning-as-a-service-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeppeL-G/machine-learning-as-a-service-client/issues"
+  },
+  "homepage": "https://github.com/PeppeL-G/machine-learning-as-a-service-client#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemon": "^1.19.4",
+    "spectre.css": "^0.5.8"
+  }
+}

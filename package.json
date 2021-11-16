@@ -20,7 +20,7 @@
   "homepage": "https://github.com/PeppeL-G/machine-learning-as-a-service-client#readme",
   "dependencies": {
     "@google-cloud/translate": "^5.0.2",
-    "aws-sdk": "^2.568.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "nodemon": "^1.19.4",
